@@ -7,7 +7,7 @@
 
 ?>
 
-<div id="urgency-chapter" class="limited-time-sticky">
+<div id="urgency-chapter" class="limited-time-sticky test-class">
 	<!-- <p class="limited-time-copy">🚀 SPECIAL LAUNCH PRICE <span class="msrp-price">$54</span><span class="selling-price">$29</span></p> -->
 	<p class="limited-time-copy">🚨 Only <span class="msrp-price">$54</span><span class="selling-price">$29 Today</span> 🚨</p>
 </div>
