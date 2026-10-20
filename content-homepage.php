@@ -20,7 +20,7 @@
 	</header>
 	<img class="full-width-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/cro-theme-img-3-compressed.png" alt="CRO Theme Image" />
 	<div class="col-full">
-		<button onclick="location.href='https://conversionsovereverything.com/checkout/?add-to-cart=176';" class="primary-cta">GET THE PLAYBOOK FOR $29 <span class="cta-arrow">»</span></button>
+		<button onclick="location.href='https://conversionsovereverything.com/checkout/?add-to-cart=176&quantity=1';" class="primary-cta">GET THE PLAYBOOK FOR $29 <span class="cta-arrow">»</span></button>
 		<div class="display-flex center">
 			<p class="white-text post-cta">• Instant Access</p>
 			<p class="white-text post-cta">• Money-Back Guarantee</p>
