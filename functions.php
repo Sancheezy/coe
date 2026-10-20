@@ -65,12 +65,6 @@ if ( version_compare( get_bloginfo( 'version' ), '4.7.3', '>=' ) && ( is_admin()
 	require 'inc/nux/class-storefront-nux-starter-content.php';
 }
 
-// change place order text
-// add_filter( 'woocommerce_order_button_text', 'custom_order_button_text' ); 
-// function custom_order_button_text() {
-//     return 'Complete My Order »'; // Replace with your desired button text
-// }
-
 // clear cart on homepage load
 add_action( 'template_redirect', 'clear_cart_on_index_load' );
 function clear_cart_on_index_load() {
@@ -80,6 +74,7 @@ function clear_cart_on_index_load() {
     }
 }
 
+// load custom JS
 function my_custom_theme_scripts() {
     wp_enqueue_script(
         'custom-js', 
@@ -90,6 +85,12 @@ function my_custom_theme_scripts() {
     );
 }
 add_action('wp_enqueue_scripts', 'my_custom_theme_scripts');
+
+// change place order text
+add_filter( 'woocommerce_order_button_text', 'custom_order_button_text' ); 
+function custom_order_button_text() {
+    return 'Complete My Order »'; // Replace with your desired button text
+}
 
 /**
  * Note: Do not add any custom code here. Please use a custom plugin so that your customizations aren't lost during updates.

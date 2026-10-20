@@ -7,7 +7,7 @@
 
 ?>
 
-<div id="urgency-chapter" class="limited-time-sticky">
+<div id="urgency-chapter" class="limited-time-sticky test-class">
 	<!-- <p class="limited-time-copy">🚀 SPECIAL LAUNCH PRICE <span class="msrp-price">$54</span><span class="selling-price">$29</span></p> -->
 	<p class="limited-time-copy">🚨 Only <span class="msrp-price">$54</span><span class="selling-price">$29 Today</span> 🚨</p>
 </div>
@@ -20,7 +20,7 @@
 	</header>
 	<img class="full-width-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/cro-theme-img-3-compressed.png" alt="CRO Theme Image" />
 	<div class="col-full">
-		<button onclick="location.href='https://conversionsovereverything.com/checkout/?add-to-cart=176';" class="primary-cta">GET THE PLAYBOOK FOR $29 <span class="cta-arrow">»</span></button>
+		<button onclick="location.href='https://conversionsovereverything.com/checkout/?add-to-cart=176&quantity=1';" class="primary-cta">GET THE PLAYBOOK FOR $29 <span class="cta-arrow">»</span></button>
 		<div class="display-flex center">
 			<p class="white-text post-cta">• Instant Access</p>
 			<p class="white-text post-cta">• Money-Back Guarantee</p>
