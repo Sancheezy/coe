@@ -8,7 +8,7 @@
 ?>
 
 <div class="col-full">
-	<img class="full-width-img top-logo" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/coe-logo-white-compressed.png" alt="COE Logo" />
+	<img class="full-width-img top-logo" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/coe-logo-white-bg.webp" alt="COE Logo" width="626" height="314" />
 	<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 		<?php
 		/**
