@@ -333,7 +333,7 @@ if ( ! function_exists( 'storefront_page_header' ) ) {
 		<header class="entry-header yoooo">
 			<?php
 			// storefront_post_thumbnail( 'full' );
-			the_title( '<h1 class="entry-title yoooo">', '</h1>' );
+			the_title( '<h1 class="entry-title entry-title-main">', '</h1>' );
 			?>
 		</header>
 		<?php

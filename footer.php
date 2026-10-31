@@ -26,7 +26,7 @@
 			 */
 			// do_action( 'storefront_footer' );
 			?>
-			<img src="https://conversionsovereverything.com/wp-content/uploads/2026/09/coe-logo-e1790217012758.png" alt="Conversions Over Everything Logo" class="footer-logo" />
+			<img src="https://conversionsovereverything.com/wp-content/uploads/2026/10/coe-logo-black-bg.webp" alt="Conversions Over Everything Logo" class="footer-logo" width="442" height="222" />
 			<p class="white-text no-margin text-center">Dollar Roger &copy; 2026. All Rights Reserved.</p>
 			<!-- privacy policy and terms go here -->
 		</div><!-- .col-full -->

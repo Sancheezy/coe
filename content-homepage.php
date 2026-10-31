@@ -18,7 +18,7 @@
 		<!-- <h3 class="sub-headline text-center white-text">Turn More of the Traffic You Already Have Into Customers.</h3> -->
 			<p class="text-center white-text" style="line-height: 1.5;">Get the direct-response templates, frameworks, and testing strategies I use to find conversion leaks, strengthen offers, and build pages designed to sell.</p>
 	</header>
-	<img class="full-width-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/cro-theme-img-3-compressed.png" alt="CRO Theme Image" />
+	<img class="full-width-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/coe-hero-image.webp" alt="CRO Theme Image" fetchpriority="high" loading="eager" decoding="async" width="721" height="481" />
 	<div class="col-full">
 		<button onclick="location.href='https://conversionsovereverything.com/checkout/?add-to-cart=176&quantity=1';" class="primary-cta">GET THE PLAYBOOK FOR $29 <span class="cta-arrow">»</span></button>
 		<div class="display-flex center">
@@ -27,12 +27,12 @@
 		</div>
 		<!-- Payment Method Icons -->
 		<div class="display-flex center">
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/visa.svg?ver=ea73ff7da957e7f061a5" id="visa-icon" class="payment-icon" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/mastercard.svg?ver=4400aa23cc86d9f46f7b" id="mastercard-icon" class="payment-icon" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/amex.svg?ver=ed5bba89666ab8190fdc" id="amex-icon" class="payment-icon" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/discover.svg?ver=294a531122cb0d508a02" id="discover-icon" class="payment-icon" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/applepay.svg" id="applepay-icon" class="payment-icon" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/gpay.svg" id="googlepay-icon" class="payment-icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/visa.svg?ver=ea73ff7da957e7f061a5" id="visa-icon" class="payment-icon" width="38" height="24" alt="visa icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/mastercard.svg?ver=4400aa23cc86d9f46f7b" id="mastercard-icon" class="payment-icon" width="38" height="24" alt="mastercard icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/amex.svg?ver=ed5bba89666ab8190fdc" id="amex-icon" class="payment-icon" width="38" height="24" alt="amex icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/discover.svg?ver=294a531122cb0d508a02" id="discover-icon" class="payment-icon" width="38" height="24" alt="discover icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/applepay.svg" id="applepay-icon" class="payment-icon" width="38" height="24" alt="apple pay icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/gpay.svg" id="googlepay-icon" class="payment-icon" width="38" height="24" alt="google pay icon" />
 		</div><!-- .display-flex center -->
 	</div>
 	<!-- <p class="urgency-copy white-text text-center">⏰ Hurry! Price increases to $54 soon</p> -->
@@ -70,7 +70,7 @@
 <div id="optimizing-chapter" class="chapter chapter-padding light-grey-bg">
 	<div class="col-full">
 		<h2 class="text-center">Your Traffic Isn’t the Problem. Your Conversion Rate Is.</h2>
-		<img class="full-width-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/cvr-bar-grey-compressed.png" alt="CVR difference illustration" />
+		<img class="full-width-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/cvr-bar-visual.webp" alt="CVR difference illustration" width="642" height="428" />
 
 		<p>Most landing pages aren't suffering from one catastrophic mistake. They're losing conversions through dozens of smaller problems:</p>
 
@@ -131,7 +131,7 @@
 
 <div id="what-you-get-chapter" class="chapter chapter-padding">
 	<h2 class="text-center">Here's Exactly What You Get</h2>
-	<img class="full-width-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/whats-inside-img-compressed.png" alt="CRO Playbook Image" />
+	<img class="full-width-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/whats-inside-visual.webp" alt="CRO Playbook What's Inside" width="721" height="361" />
 	<div class="col-full">
 		<p>For only $29 you get immediate access to:</p>
 		<div class="display-flex">
@@ -266,7 +266,7 @@
 		<p>No marketing fluff. No “secret hacks”. Just a systematic approach to finding friction, building better experiences, and testing what converts.</p>
 		
 		<div class="display-flex center">
-			<img class="circle-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/roger_compressed.jpg" alt="Experience in turning traffic into revenue" id="author-image" />
+			<img class="circle-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/roger-portrait.webp" alt="Experience in turning traffic into revenue" id="author-image" width="300" height="300" />
 		</div>
 		<h3 class="text-center no-margin">Roger Sanchez</h3>
 		<p class="text-center">eCommerce • Direct Response • CRO</p>
@@ -331,7 +331,7 @@
 		<h2 class="text-center">Get It Before the<br />Price Goes Up</h2>
 		
 		<p>The Direct-Response CRO Playbook is available at a special introductory price—but not forever. Get instant access to 15 conversion-focused chapters that will give you a repeatable system for turning more of the traffic you're already paying for into customers. Act now before the price increases to $54.</p>
-		<img src="https://conversionsovereverything.com/wp-content/uploads/2026/10/cro-playbook-compressed.png" alt="The CRO Playbook" class="full-width-img" />
+		<img src="https://conversionsovereverything.com/wp-content/uploads/2026/10/cro-playbook-visual.webp" alt="The CRO Playbook" class="full-width-img" width="696" height="636" />
 		
 		<h3 class="special-pricing text-center">Only <del class="original-price">($54)</del> $29 Today!</h3>
 		<p class="text-center savings">(you save: $25)</p>
@@ -349,7 +349,7 @@
 <div id="risk-reversal-chapter" class="chapter chapter-padding light-grey-bg">
 	<div class="col-full">
 		<h2 class="text-center">Put It to Work for 30 Days</h2>
-		<img src="https://conversionsovereverything.com/wp-content/uploads/2026/10/mbg-grey-bg-compressed.png" alt="Risk-Free Guarantee" class="small-img" />
+		<img src="https://conversionsovereverything.com/wp-content/uploads/2026/10/mbg-badge.webp" alt="Risk-Free Guarantee" class="small-img" width="450" height="450" />
 		<p>Get instant access. Explore the templates. Apply the frameworks to your pages, offers, and funnels. If you don't feel the playbook gives you practical ideas you can put to work, request a refund within 30 days and I'll give you your money back. Simply email support@dollarroger.com</p>
 		<p>No complicated process. No unnecessary questions. Just a straightforward guarantee. You take the playbook. I take the risk.</p>
 
