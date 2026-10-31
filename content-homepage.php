@@ -27,12 +27,12 @@
 		</div>
 		<!-- Payment Method Icons -->
 		<div class="display-flex center">
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/visa.svg?ver=ea73ff7da957e7f061a5" id="visa-icon" class="payment-icon" width="38" height="24" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/mastercard.svg?ver=4400aa23cc86d9f46f7b" id="mastercard-icon" class="payment-icon" width="38" height="24" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/amex.svg?ver=ed5bba89666ab8190fdc" id="amex-icon" class="payment-icon" width="38" height="24" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/discover.svg?ver=294a531122cb0d508a02" id="discover-icon" class="payment-icon" width="38" height="24" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/applepay.svg" id="applepay-icon" class="payment-icon" width="38" height="24" />
-			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/gpay.svg" id="googlepay-icon" class="payment-icon" width="38" height="24" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/visa.svg?ver=ea73ff7da957e7f061a5" id="visa-icon" class="payment-icon" width="38" height="24" alt="visa icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/mastercard.svg?ver=4400aa23cc86d9f46f7b" id="mastercard-icon" class="payment-icon" width="38" height="24" alt="mastercard icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/amex.svg?ver=ed5bba89666ab8190fdc" id="amex-icon" class="payment-icon" width="38" height="24" alt="amex icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/discover.svg?ver=294a531122cb0d508a02" id="discover-icon" class="payment-icon" width="38" height="24" alt="discover icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/applepay.svg" id="applepay-icon" class="payment-icon" width="38" height="24" alt="apple pay icon" />
+			<img src="https://conversionsovereverything.com/wp-content/plugins/woocommerce-payments/assets/images/payment-method-icons/gpay.svg" id="googlepay-icon" class="payment-icon" width="38" height="24" alt="google pay icon" />
 		</div><!-- .display-flex center -->
 	</div>
 	<!-- <p class="urgency-copy white-text text-center">⏰ Hurry! Price increases to $54 soon</p> -->
@@ -266,7 +266,7 @@
 		<p>No marketing fluff. No “secret hacks”. Just a systematic approach to finding friction, building better experiences, and testing what converts.</p>
 		
 		<div class="display-flex center">
-			<img class="circle-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/roger_compressed.jpg" alt="Experience in turning traffic into revenue" id="author-image" width="637" height="674" />
+			<img class="circle-img" src="https://conversionsovereverything.com/wp-content/uploads/2026/10/roger-portrait.webp" alt="Experience in turning traffic into revenue" id="author-image" width="300" height="300" />
 		</div>
 		<h3 class="text-center no-margin">Roger Sanchez</h3>
 		<p class="text-center">eCommerce • Direct Response • CRO</p>
@@ -349,7 +349,7 @@
 <div id="risk-reversal-chapter" class="chapter chapter-padding light-grey-bg">
 	<div class="col-full">
 		<h2 class="text-center">Put It to Work for 30 Days</h2>
-		<img src="https://conversionsovereverything.com/wp-content/uploads/2026/10/mbg-grey-bg-compressed.png" alt="Risk-Free Guarantee" class="small-img" width="627" height="627" />
+		<img src="https://conversionsovereverything.com/wp-content/uploads/2026/10/mbg-badge.webp" alt="Risk-Free Guarantee" class="small-img" width="450" height="450" />
 		<p>Get instant access. Explore the templates. Apply the frameworks to your pages, offers, and funnels. If you don't feel the playbook gives you practical ideas you can put to work, request a refund within 30 days and I'll give you your money back. Simply email support@dollarroger.com</p>
 		<p>No complicated process. No unnecessary questions. Just a straightforward guarantee. You take the playbook. I take the risk.</p>
 
